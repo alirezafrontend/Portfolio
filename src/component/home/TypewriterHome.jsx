@@ -13,8 +13,8 @@ const TypewriterHome = () => {
           1500,
           "",
         ]}
-        speed={300}
-        deletionSpeed={100}
+        speed={200}
+        deletionSpeed={120}
         repeat={Infinity}
         cursor={true}
         wrapper="span"
