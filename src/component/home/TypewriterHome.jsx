@@ -7,14 +7,14 @@ const TypewriterHome = () => {
       <TypeAnimation
         sequence={[
           "Alireza Hasanpour",
-          2000,
+          1500,
           "",
           "Web Developer",
-          2000,
+          1500,
           "",
         ]}
-        speed={90}
-        deletionSpeed={70}
+        speed={300}
+        deletionSpeed={100}
         repeat={Infinity}
         cursor={true}
         wrapper="span"
