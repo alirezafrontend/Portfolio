@@ -5,12 +5,12 @@ A modern and fully responsive portfolio website built with React, designed to sh
 🔹 **Built with:** React, Tailwind CSS, JavaScript, HTML, CSS   
 
 ## 🚀 Features  
-✔️ Clean, responsive design optimized for all devices 
-✔️ Interactive sections with smooth animations  
-✔️ Projects section with live demos and GitHub links  
-✔️ About me and skills overview 
-✔️ Contact form with email integration  
-✔️ Easy to extend and customize  
+✔️ Clean, responsive design optimized for all devices.
+✔️ Interactive sections with smooth animations.
+✔️ Projects section with live demos and GitHub links. 
+✔️ About me and skills overview.
+✔️ Contact form with email integration.
+✔️ Easy to extend and customize.
 
 
 ## 🛠️ Technologies Used
