@@ -50,7 +50,7 @@ const SwiperProject = () => {
                   <p className="text-[17px] md:text-[14px] lg:text-[17px] xl:text-[18px] mb-[8px] line-clamp-1">
                     {item.description}
                   </p>
-                  <div className="flex items-center gap-2 group w-[230px]">
+                  <div className="flex items-center gap-2 group w-[250px]">
                     <a
                       className="text-[24px] lg:text-[28px] xl:text-[30px] underline underline-offset-6 cursor-pointer"
                       href={item.link}
